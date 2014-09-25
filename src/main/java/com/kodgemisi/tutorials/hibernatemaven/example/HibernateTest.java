@@ -35,6 +35,7 @@ public static void main(String[] args) {
             System.out.println("next employee: " + next);
         }
  
+        System.exit(0);
     }
     
 }
