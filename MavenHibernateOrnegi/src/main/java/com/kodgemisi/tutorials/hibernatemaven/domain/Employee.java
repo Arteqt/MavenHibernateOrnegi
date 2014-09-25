@@ -1,4 +1,4 @@
-package com.hibernate.domain;
+package com.kodgemisi.tutorials.hibernatemaven.domain;
  
 import javax.persistence.*;
   

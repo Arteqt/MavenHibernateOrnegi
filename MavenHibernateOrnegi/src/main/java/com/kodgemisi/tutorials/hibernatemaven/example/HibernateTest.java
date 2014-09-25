@@ -1,12 +1,14 @@
-package com.hibernate.example;
+package com.kodgemisi.tutorials.hibernatemaven.example;
  
 import java.util.List;
  
  
-import com.hibernate.domain.Employee;
-import com.hibernate.domain.Department;
-import com.hibernate.util.*;
- 
+
+
+import com.kodgemisi.tutorials.hibernatemaven.domain.Department;
+import com.kodgemisi.tutorials.hibernatemaven.domain.Employee;
+import com.kodgemisi.tutorials.hibernatemaven.util.*;
+
 import org.hibernate.*;
  
 public class HibernateTest {

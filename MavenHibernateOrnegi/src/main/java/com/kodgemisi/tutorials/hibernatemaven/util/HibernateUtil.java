@@ -1,4 +1,4 @@
-package com.hibernate.util;
+package com.kodgemisi.tutorials.hibernatemaven.util;
   
 import org.hibernate.SessionFactory;
 import org.hibernate.boot.registry.StandardServiceRegistryBuilder;
